@@ -1,16 +1,38 @@
-## Hi there 👋
+# Prince Arya
 
-<!--
-**princedevarya/princedevarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity | Penetration Testing | Security Engineering**
 
-Here are some ideas to get you started:
+I'm a B.Tech student at NIT Srinagar interested in understanding how systems work, identifying security weaknesses, and building practical security tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing **VANTA (Virtual Attack & Network Testing Arena)**, a security assessment platform for controlled environments.
+
+### Areas of Interest
+
+- Web Application & API Security
+- Vulnerability Assessment and Penetration Testing
+- Network Security and Reconnaissance
+- IoT and Hardware Security
+
+### Featured Project
+
+**[VANTA](https://github.com/princedevarya/VANTA)**
+
+A security assessment platform designed to organize reconnaissance, asset discovery, vulnerability validation, evidence collection, and professional reporting in controlled testing environments.
+
+### Technologies & Tools
+
+**Languages:** Python, C, C++
+
+**Security:** Burp Suite, Nmap, Nuclei, OWASP Testing
+
+**Environment:** Linux, Docker, Git
+
+### Current Focus
+
+Building practical security projects, strengthening my networking and application security fundamentals, and learning through authorized security testing.
+
+### Connect
+
+- GitHub: [@princedevarya](https://github.com/princedevarya)
+- LinkedIn: Add your LinkedIn profile URL here
+
