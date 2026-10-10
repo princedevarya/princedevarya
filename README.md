@@ -34,5 +34,5 @@ Building practical security projects, strengthening my networking and applicatio
 ### Connect
 
 - GitHub: [@princedevarya](https://github.com/princedevarya)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/prince-arya-0172161b8
 
